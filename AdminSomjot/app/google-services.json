@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "177893512014",
+    "firebase_url": "https://somjot-a80b1.firebaseio.com",
+    "project_id": "somjot-a80b1",
+    "storage_bucket": "somjot-a80b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177893512014:android:a083a94891e2c959",
+        "android_client_info": {
+          "package_name": "com.blog.chhun.adminsomjot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177893512014-o60iegc2lqebch1s3pb104m25dff7j9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blog.chhun.adminsomjot",
+            "certificate_hash": "1b580331c9b26f1025542567cc7d2cac12e209b7"
+          }
+        },
+        {
+          "client_id": "177893512014-o9aams2dc5fno3tchvsbdaarflkvs9on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlYyaajUsx019HmQZMMVcv-QlYhbmbeFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177893512014-o9aams2dc5fno3tchvsbdaarflkvs9on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
